@@ -1,4 +1,6 @@
 # AoC2024_Videos
+Status: ADDING...
+
 This project contains the code used to generate the Advent of Code 2024 Visualizations found on [Dan4Life](https://www.youtube.com/@dan4life)
 
 All codes are working on Manim v0.18.1 which is the latest version of the ManimCE as of Dec 2024
