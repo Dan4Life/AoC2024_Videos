@@ -1,5 +1,4 @@
-# AoC2024_Videos
-Status: ADDING...
+# Advent of Code 2024 Videos
 
 This project contains the code used to generate the Advent of Code 2024 Visualizations found on [Dan4Life](https://www.youtube.com/@dan4life)
 
